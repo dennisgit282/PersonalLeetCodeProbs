@@ -1,5 +1,5 @@
 # PersonalLeetCodeProbs
-A link to my LeetCode Accomplishments
+A link to my LeetCode Solutions.
 
 https://leetcode.com/dpw82/
 
